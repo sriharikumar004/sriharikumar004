@@ -1,16 +1,84 @@
-## Hi there 👋
 
-<!--
-**sriharikumar004/sriharikumar004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Sriharikumar K
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 B.Tech Artificial Intelligence and Data Science Student
+
+💻 Aspiring Software Developer | AI Enthusiast | Full Stack Learner
+
+I am passionate about technology, programming, and building
+innovative solutions. I enjoy learning new technologies
+and improving my development skills.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science (AIDS).
+- 💡 Interested in Software Development and Artificial Intelligence.
+- 🌱 Currently learning Full Stack Development, React, and AI.
+- 🚀 Exploring new technologies and building my programming skills.
+- 🎯 Goal: Become a skilled Software Developer.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### Database
+- Database Management Systems (DBMS)
+
+### Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs" />
+</p>
+
+- Full Stack Development
+- Artificial Intelligence
+- Modern Web Technologies
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🎯 My Interests
+
+- 💻 Software Development
+- 🤖 Artificial Intelligence
+- 🌐 Full Stack Web Development
+- 🧠 Problem Solving
+- 📚 Continuous Learning
+
+---
+
+<div align="center">
+
+### 💫 "Keep Learning, Keep Building, Keep Growing!"
+
+⭐ Thanks for visiting my GitHub profile!
+
+</div>
