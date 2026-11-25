@@ -64,13 +64,6 @@ and improving my development skills.
 
 <div align="center">
   
-## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriharikumar004)
-
----
-
-<div align="center">
 
 ### 💫 "Keep Learning, Keep Building, Keep Growing!"
 
